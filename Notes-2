@@ -1,1 +1,12 @@
+An invariant is something that does not change when we apply the rules ot a problem
+Strategy to solve invariant problems:
+1)identify what is unknown about the final state and what is known
+2)introduce variables to represent the state
+3)Model the process of filling boxes
+4)Identify an invariant
+5)Combine the previous steps to deduce the final state
 
+
+Proposition - Statements which are either True or False
+Axiom - Propositions which are True by definition
+Theorem - Propositions which can be proved to be True
